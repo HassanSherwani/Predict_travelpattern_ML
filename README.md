@@ -17,8 +17,10 @@ To build a classifier that would predict the conversion-likelihood of a user
 
 # Content
 
-- Notebook1 : Data Preparation i.e a data format that is suitable for the analysis
-- Notebook2 : Exploratory data analysis for given variables and extracted features from given information
+- Notebook1 : Data Preparation i.e a data format that is suitable for the analysis.
+- Notebook2 : Exploratory data analysis for given variables and extracted features from given information.
+- Notebook3 : Feature Selection from given dataset.
+- Notebook4 : Addressing problem of class imbalance and inadequate evaluation metrics.
 
 # Module
 
