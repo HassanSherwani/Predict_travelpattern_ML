@@ -4,7 +4,7 @@ To build a classifier that would predict the conversion-likelihood of a user
 
 # Data
 
- Sample of events collected from an online travel agency, containing:
+ Sample of events collected containing:
   -  `ts` - the timestamp of the event
   -  `event_type` - either `search` for searches made on the site, or `book` for a conversion, e.g. the user books the flight
   -  `user_id` - unique identifier of a user
