@@ -29,3 +29,13 @@ Additionally, Feature Selection from given dataset.
 - https://www.movable-type.co.uk/scripts/latlong.html
 
 - https://kanoki.org/2019/12/27/how-to-calculate-distance-in-python-and-pandas-using-scipy-spatial-and-distance-functions/
+
+- https://machinelearningmastery.com/random-oversampling-and-undersampling-for-imbalanced-classification/
+
+- https://towardsdatascience.com/predicting-hotel-bookings-with-user-search-parameters-8c570ab24805
+
+- https://www.youtube.com/watch?v=U3X98xZ4_no
+ 
+- https://www.youtube.com/watch?v=DQC_YE3I5ig
+
+- https://github.com/coding-maniacs/over-under-sampling/blob/master/src/main.py
