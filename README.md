@@ -20,8 +20,9 @@ To build a classifier that would predict the conversion-likelihood of a user
 - Notebook1 : Data Preparation i.e a data format that is suitable for the analysis.
 - Notebook2 : Exploratory data analysis for given variables and extracted features from given information.
 Additionally, Feature Selection from given dataset.
-- Notebook3: Solving issue of class imbalance and Log. classifier to provide results' comparsion.
-- Notebook4 : Addressing problem of class imbalance and inadequate evaluation metrics.
+- Notebook3: Solving issue of class imbalance and then applying Log. classifier to provide results' comparsion.
+- Notebook4 : Applying multiple machine learning models and compare them with Neural network model performance.
+- Notebook5 : Implementing model tuning techniques and also discussing different evaluation matrics in detail.
 
 # Module
 
