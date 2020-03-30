@@ -42,6 +42,8 @@ numpy, pandas,scipy,datetime, sklearn ,statsmodels, matplotlib, seaborn ,pprint,
  
 - https://www.youtube.com/watch?v=DQC_YE3I5ig
 
+- Jason Kessler in PyData 2017 Seattle
+
 - https://gist.github.com/rochacbruno/2883505
 
 - https://github.com/coding-maniacs/over-under-sampling/blob/master/src/main.py
