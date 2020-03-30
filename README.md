@@ -14,6 +14,8 @@ To build a classifier that would predict the conversion-likelihood of a user
   -  `destination` - IATA airport code of the destination airport
   -  `num_adults` - number of adults
   -  `num_children` - number of children
+  
+  There is another containing geo-coordinates of major airports.
 
 # Content
 
@@ -45,7 +47,7 @@ numpy, pandas,scipy,datetime, sklearn ,statsmodels, matplotlib,seaborn,pprint.
  
 - https://www.youtube.com/watch?v=DQC_YE3I5ig
 
-- Jason Kessler in PyData 2017 Seattle
+- Jason Kessler in PyData 2017 Seattle : https://www.youtube.com/watch?v=H7X9CA2pWKo
 
 - https://gist.github.com/rochacbruno/2883505
 
