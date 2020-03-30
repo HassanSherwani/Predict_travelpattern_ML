@@ -40,8 +40,11 @@ Additionally, Feature Selection from given dataset.
  
 - https://www.youtube.com/watch?v=DQC_YE3I5ig
 
+- https://gist.github.com/rochacbruno/2883505
+
 - https://github.com/coding-maniacs/over-under-sampling/blob/master/src/main.py
 
 - https://towardsdatascience.com/model-based-feature-importance-d4f6fb2ad403
 
 - https://www.dataschool.io/simple-guide-to-confusion-matrix-terminology/
+
