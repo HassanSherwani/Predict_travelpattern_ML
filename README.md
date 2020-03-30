@@ -46,6 +46,8 @@ numpy, pandas,scipy,datetime, sklearn ,statsmodels, matplotlib, seaborn ,pprint,
 
 - https://gist.github.com/rochacbruno/2883505
 
+- https://scikit-learn.org/stable/modules/sgd.html
+
 - https://github.com/coding-maniacs/over-under-sampling/blob/master/src/main.py
 
 - https://towardsdatascience.com/model-based-feature-importance-d4f6fb2ad403
