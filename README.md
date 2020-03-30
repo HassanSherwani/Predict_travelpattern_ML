@@ -27,7 +27,7 @@ Additionally, Feature Selection from given dataset.
 # Module
 Please check if these modules/packages are in your IDE. To install , please use following command;
 
-pip install <module name>
+pip install "module_name"
  
 numpy, pandas,scipy,datetime, sklearn ,statsmodels, matplotlib,seaborn,pprint.
 
