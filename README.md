@@ -26,6 +26,8 @@ Additionally, Feature Selection from given dataset.
 
 # Module
 
+numpy, pandas,scipy,datetime, sklearn ,matplotlib, seaborn ,pprint,
+
 # References
 
 - https://www.movable-type.co.uk/scripts/latlong.html
