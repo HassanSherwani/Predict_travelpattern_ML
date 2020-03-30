@@ -25,8 +25,11 @@ Additionally, Feature Selection from given dataset.
 - Notebook5 : Implementing model tuning techniques and also discussing different evaluation matrics in detail.
 
 # Module
+Please check if these modules/packages are in your IDE. To install , please use following command;
 
-numpy, pandas,scipy,datetime, sklearn ,statsmodels, matplotlib, seaborn ,pprint,
+pip install <module name>
+ 
+numpy, pandas,scipy,datetime, sklearn ,statsmodels, matplotlib,seaborn,pprint.
 
 # References
 
