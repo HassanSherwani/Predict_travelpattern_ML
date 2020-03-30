@@ -26,7 +26,7 @@ Additionally, Feature Selection from given dataset.
 
 # Module
 
-numpy, pandas,scipy,datetime, sklearn ,matplotlib, seaborn ,pprint,
+numpy, pandas,scipy,datetime, sklearn ,statsmodels, matplotlib, seaborn ,pprint,
 
 # References
 
