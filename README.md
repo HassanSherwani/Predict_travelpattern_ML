@@ -61,3 +61,5 @@ numpy, pandas,scipy,datetime, sklearn ,statsmodels, matplotlib,seaborn,pprint.
 
 - https://www.scikit-yb.org/en/latest/api/model_selection/importances.html
 
+- precision recall tradeoff: https://www.machinelearningaptitude.com/topics/machine-learning/what-is-precision-recall-tradeoff/
+
